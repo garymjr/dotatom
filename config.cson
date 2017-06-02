@@ -1,0 +1,26 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    audioBeep: false
+    autoHideMenuBar: true
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "deprecation-cop"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "ramda-syntax"
+    ]
+  editor:
+    fontFamily: "Fira Code"
+    softWrap: true
+  "exception-reporting":
+    userId: "2173a8b4-5e93-4c09-98ca-9ceb825d93a1"
+  "language-babel":
+    autoIndentJSX: true
+  welcome:
+    showOnStartup: false
+  zentabs:
+    neverCloseUnsaved: true

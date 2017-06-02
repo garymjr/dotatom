@@ -1,0 +1,9 @@
+blob-store
+compile-cache
+dev
+kite-config.json
+packages
+storage
+.apm
+.node-gyp
+.npm
